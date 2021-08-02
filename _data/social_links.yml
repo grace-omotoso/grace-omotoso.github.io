@@ -1,15 +1,15 @@
-- link: tel:+19876543210
+- link: tel:+16157204183
   class: fas fa-phone-square-alt
 
-- link: mailto:felloship@mlh.io
+- link: mailto:gracomot@gmail.com
   class: fas fa-envelope
 
-- link: https://twitter.com/
-  class: fab fa-twitter-square
-
-- link: https://linkedin.com/
+- link: https://www.linkedin.com/in/grace-omotoso-18003345/
   class: fab fa-linkedin
 
-- link: https://github.com/MLH-Fellowship
+- link: https://www.facebook.com/grace.omotoso.3/
+  class: fab fa-facebook-f
+
+- link: https://github.com/grace-omotoso
   class: fab fa-github
 

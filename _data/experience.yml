@@ -1,4 +1,34 @@
-- role: Pre Fellowship Fellow
-  company: MLH Fellowship
-  dates: Summer 2021
-  logo: fellowship.svg
+- role: Data Engineer
+  company: ArborMetrix
+  dates: Apr. 2021 - Till Date
+  logo: AM.png
+
+- role: CIS Instructor
+  company: Calhoun Community College
+  dates: Aug. 2020 - Apr. 2021
+  logo:  calhoun.png
+
+- role: Computer Vision Fellowship
+  company: Etsy Inc.
+  dates: July 2020 - Sept. 2020
+  logo:  etsy.png
+
+- role: Graduate Teaching Assistant (CS)
+  company: Middle Tennesee State University
+  dates: Aug 2018 - May 2020
+  logo:  MTSU.png
+
+- role: Web Developer Intern
+  company: HCA Healthcare
+  dates: June 2019 - May 2020
+  logo:  hca.png
+
+- role: Software Developer
+  company: Andela
+  dates: Aug 2015 - Jan 2017
+  logo:  andela.png
+
+- role: IT Audit Consultant
+  company: Rhythex Consulting
+  dates: Jul 2012 - Jul 2015
+  logo:  rhythex.jpg

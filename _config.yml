@@ -1,12 +1,12 @@
-title: "Recursive Rhino (Pod 3.1.0)"
-email: fellowship@mlh.io
+title: "Bukola 'Grace' Omotoso"
+email: gracomot@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
 baseurl: "/" 
 url: "/" 
-form_url: "https://formspree.io/f/mnqlbokq"
-twitter_username: mlhacks
-github_username: OfiliPatrick
+form_url: "https://formspree.io/f/mknkqzwr"
+github_username: grace-omotoso
+certs: BSc, MsC, CISA, CISM
 
 sass:
   sass_dir: _sass
