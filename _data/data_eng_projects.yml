@@ -1,0 +1,35 @@
+- title: Data Modeling with Apache Cassandra
+  logo: cassandra.png
+  page-name: project
+  project-description: A project that extracts data from various csv files and loads specific columns to apache cassandra so users can run queries on the data
+  url: https://github.com/grace-omotoso/csv-to-cassandra
+
+- title: Data Warehousing with Amazon Redshift
+  logo: redshift.png
+  page-name: project
+  project-description: A project that extracts data from Amazon S3 stages them in Amazon Redshift and transforms data into a set of dimensuonal tables to generate insights 
+  url: https://github.com/grace-omotoso/data-warehouse
+
+- title: Data Transformation with Apache Spark and AWS Glue
+  logo: glue.png
+  page-name: project
+  project-description: A project that uses AWS Glue, Athena and Apache Spark for data transformations to build a lakehouse
+  url: https://github.com/grace-omotoso/aws-spark-and-glue
+
+- title: Workflow Scheduling with Apache Airflow
+  logo: airflow.png
+  page-name: project
+  project-description: A project that uses Apache Airflow to automate the loading of data from S3 into Redshift
+  url: https://github.com/grace-omotoso/data-pipeline-with-airflow
+
+- title: Data Streaming with Apache Kafka
+  logo: kafka.png
+  page-name: project
+  project-description: This project uses public data from the Chicago Transit Authority to construct an event pipeline around Kafka that allows the simulation and display of train line status in real time
+  url: https://github.com/grace-omotoso/kafka_streaming
+
+- title: Data Streaming with Apache Spark
+  logo: spark_streaming.png
+  page-name: project
+  project-description: This project uses Apache Spark to manage streaming data created by real-time data sources such as redis using Kafka Connect
+  url: https://github.com/grace-omotoso/spark-streaming
