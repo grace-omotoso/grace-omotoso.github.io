@@ -1,0 +1,18 @@
+<a id = "expdivoffset"></a>
+<h2 id="expdiv">Data Science Blogs</h2>
+<div class="card-container">
+  {% for item in site.data.data_science_blogs %}
+  <div class="card">
+    <div class="icon">
+      <img src="./assets/img/blogs/{{ item.logo }}" />
+    </div>
+    <a href="{{item.url}}" target="_blank">
+    <div class="info">
+      <p class="title">{{ item.title }}</p>
+      <p class="location">{{ item.time }}</p>
+      <p class="dates">{{ item.date }}</p>
+    </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>
