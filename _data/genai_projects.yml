@@ -1,0 +1,12 @@
+- title: Lifestyle Coach
+  logo: sustainable_weight_loss.png
+  page-name: project
+  project-description: A project that usings AWS party rock to create a Weight Loss Lifestyle Coach App that lets users tweak widgets for their specific use.
+  url: https://tinyurl.com/gracomot-coach
+
+- title: NASA RAG-Based Chat System
+  logo: nasa.png
+  page-name: project
+  project-description: A RAG based chat system that uses the NASA's archives to answer questions about 3 major space missions - Challenger, Apollo 11 and Apollo 13. The chat app also provides real time evaluations of responses.
+  url: https://github.com/grace-omotoso/nasa-space-missions-RAG
+
